@@ -1,7 +1,6 @@
 # FBI night-theme
 screenshots
-![1](https://i.imgur.com/g299jF9.png)
-![2](https://i.imgur.com/fy9cwuF.png)
+![1](https://i.imgur.com/g299jF9.png) ![2](https://i.imgur.com/fy9cwuF.png)
 
 # FBI
 
