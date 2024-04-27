@@ -50,12 +50,12 @@ ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
 
 APP_TITLE	:=	FBI night-theme
-APP_DESCRIPTION	:=FBI_NT -	Open source title manager.
+APP_DESCRIPTION	:=FBI_NT - Open source title manager.
 APP_AUTHOR	:=	2ipper
 ICON := meta/icon_3ds.png
 
 PRODUCT_CODE := CTR-P-CFBI
-UNIQUE_ID := 0xF8001
+UNIQUE_ID := 0xF8002
 BANNER_AUDIO := $(TOPDIR)/meta/audio_3ds.wav
 BANNER_IMAGE := $(TOPDIR)/meta/banner_3ds.cgfx
 
