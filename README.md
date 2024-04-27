@@ -1,3 +1,8 @@
+#FBI night-theme
+screenshots
+![1](https://i.imgur.com/XbzA7V6.png)
+![2](https://i.imgur.com/10k2SyJ.png)
+
 # FBI
 
 FBI is an open source title manager for the 3DS.
