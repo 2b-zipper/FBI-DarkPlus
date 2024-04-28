@@ -1,5 +1,5 @@
 # FBI DarkPlus
-**I made this for myself, so don't expect too much.**
+**I made it for myself, so don't expect too much.**
 
 # Screenshots
 ![1](https://i.imgur.com/SZV7nlO.png)
