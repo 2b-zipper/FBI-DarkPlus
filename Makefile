@@ -49,8 +49,8 @@ GFXBUILD	:=	$(BUILD)
 ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
 
-APP_TITLE	:=	FBI night-theme
-APP_DESCRIPTION	:=FBI_NT - Open source title manager.
+APP_TITLE	:=	FBI DarkPlus
+APP_DESCRIPTION	:=FBI_Dark+ - Open source title manager.
 APP_AUTHOR	:=	2ipper
 ICON := meta/icon_3ds.png
 
