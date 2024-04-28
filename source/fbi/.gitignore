@@ -1,0 +1,11 @@
+.idea
+cmake-build-debug
+CMakeLists.txt
+
+build
+output
+
+*.elf
+*.3dsx
+*.smdh
+*.cia
