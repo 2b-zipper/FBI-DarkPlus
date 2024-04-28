@@ -37,11 +37,7 @@ static void update_check_update(ui_view* view, void* data, float* progress, char
                             json_t* assetUrl = json_object_get(val, "browser_download_url");
 
                             if(json_is_string(assetName) && json_is_string(assetUrl)) {
-<<<<<<< HEAD
                                 if(strncmp(json_string_value(assetName), fs_get_3dsx_path() != NULL ? "FBI-DarkPlus.3dsx" : "FBI-DarkPlus.cia", json_string_length(assetName)) == 0) {
-=======
-                                if(strncmp(json_string_value(assetName), fs_get_3dsx_path() != NULL ? "FBI.3dsx" : "FBI.cia", json_string_length(assetName)) == 0) {
->>>>>>> ac5260ad7de520ffa6b9183bbeb6e66d52fdf7c2
                                     url = json_string_value(assetUrl);
                                     break;
                                 }
