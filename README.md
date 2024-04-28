@@ -1,4 +1,4 @@
-# FBI night-theme
+# FBI DarkPlus
 ![1](https://i.imgur.com/SZV7nlO.png)
 ![2](https://i.imgur.com/5MedBfN.png)
 
