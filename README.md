@@ -2,8 +2,8 @@
 **I made this for myself, so don't expect too much.**
 
 # Screenshots
-![1](https://i.imgur.com/SZV7nlO.png)
-![2](https://i.imgur.com/5MedBfN.png)
+![1](https://i.imgur.com/m4IGAHT.png)
+![2](https://i.imgur.com/mEPK8fv.png)
 
 # FBI
 
