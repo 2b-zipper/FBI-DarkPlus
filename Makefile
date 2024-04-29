@@ -50,7 +50,7 @@ ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
 
 APP_TITLE	:=	FBI DarkPlus
-APP_DESCRIPTION	:=FBI_Dark+ - Open source title manager.
+APP_DESCRIPTION	:=FBI-Dark+ - Open source title manager.
 APP_AUTHOR	:=	2ipper
 ICON := meta/icon_3ds.png
 
@@ -198,8 +198,11 @@ endif
 #---------------------------------------------------------------------------------
 clean:
 	@echo clean ...
-	@rm -fr $(BUILD) $(TARGET).3dsx $(OUTPUT).smdh $(TARGET).elf $(GFXBUILD)
-
+	@rm -fr $(BUILD) $(OUTPUT).smdh $(TARGET).elf $(GFXBUILD)
+#---------------------------------------------------------------------------------
+clean-all:
+	@echo clean ...
+	@rm -fr $(BUILD) $(TARGET).3dsx $(TARGET).cia $(OUTPUT).smdh $(TARGET).elf $(GFXBUILD)
 #---------------------------------------------------------------------------------
 $(GFXBUILD)/%.t3x	$(BUILD)/%.h	:	%.t3s
 #---------------------------------------------------------------------------------
