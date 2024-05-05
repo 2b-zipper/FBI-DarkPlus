@@ -1,7 +1,7 @@
 # FBI DarkPlus
 **I made this for myself, so don't expect too much.**
 
-# Screenshots
+## Screenshots
 ![1](https://i.imgur.com/4v2eINI.png)
 ![2](https://i.imgur.com/U8N2doS.png)
 
