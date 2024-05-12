@@ -51,7 +51,7 @@ ROMFS		:=	romfs
 
 APP_TITLE	:=	FBI DarkPlus
 APP_DESCRIPTION	:=FBI-Dark+ - Open source title manager.
-APP_AUTHOR	:=	2ipper
+APP_AUTHOR	:=	Steveice10, 2ipper
 ICON := meta/icon_3ds.png
 
 PRODUCT_CODE := CTR-P-CFBI
