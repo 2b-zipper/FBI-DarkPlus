@@ -2,8 +2,10 @@
 **I made this for myself, so don't expect too much.**
 
 ## Screenshots
-![1](https://i.imgur.com/4v2eINI.png)
-![2](https://i.imgur.com/U8N2doS.png)
+![Home](https://i.imgur.com/ExSNUIa.png)
+![Top](https://i.imgur.com/iry8YyQ.png)
+![Titles](https://i.imgur.com/gW73KND.png)
+![Update](https://i.imgur.com/I5ejOZK.png)
 
 # FBI
 
