@@ -6,7 +6,7 @@ FBI-DarkPlus is an open source title manager for the 3DS. FBI was originally aut
 Requires [devkitARM](https://devkitpro.org/wiki/Getting_Started), along with 3ds-curl, 3ds-zlib, and 3ds-jansson from the devkitPro pacman repository, to build.
 
 # Screenshots
-![Home](https://i.imgur.com/ExSNUIa.png)
+![Homemenu](https://i.imgur.com/ExSNUIa.png)
 ![Mainmenu](https://i.imgur.com/iry8YyQ.png)
 ![Titles](https://i.imgur.com/gW73KND.png)
 ![Update](https://i.imgur.com/I5ejOZK.png)
