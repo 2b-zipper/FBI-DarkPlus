@@ -7,7 +7,7 @@ Requires [devkitARM](https://devkitpro.org/wiki/Getting_Started), along with 3ds
 
 # Screenshots
 ![Home](https://i.imgur.com/ExSNUIa.png)
-![Top](https://i.imgur.com/iry8YyQ.png)
+![Mainmenu](https://i.imgur.com/iry8YyQ.png)
 ![Titles](https://i.imgur.com/gW73KND.png)
 ![Update](https://i.imgur.com/I5ejOZK.png)
 
