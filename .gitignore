@@ -4,6 +4,7 @@ CMakeLists.txt
 
 build
 output
+.vscode
 
 *.elf
 *.3dsx
